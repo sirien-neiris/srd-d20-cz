@@ -1,5 +1,6 @@
 # Vítejte na SRD Kostky!
 
+
 ## Co jsou SRD? A co je Kostka? 
 
 ### SRD
@@ -12,15 +13,20 @@
 
 Na Kostce lze najít mnoho dalšího - od překladů dobrodružství a dalších herních materiálů přes ohromné množství článků s radami, návody, tipy a nápady k hraní až po spoustu diskusí a prostor věnovaný jednotlivým herním skupinám.
 
+
 ## Kde jaká SRD jsou a co obsahují?
 
 ### [SRD pro DnD 5e jsou na dnd5eSRD.d20.cz](http://dnd5eSRD.d20.cz)
 
 Obsahují **Příručku Hráče**, **příručku Pána Jeskyně** a **Bestiář**. Dále obsahují virtuální **Grimoár**, v němž jsou shromážděna i další DnD kouzla (např. z Xanathara) a který nabízí alternativní řazení kouzel po úrovních.
 
-Do budoucna ***mohou*** dále obsahovat např. **Volova průvodce netvory**, **Xanatharova průvodce vším** nebo virtuálního **Průvodce povoláními** - kdy nebo zda vůbec se tak ale stane [**záleží i na Tobě**]!
+Do budoucna ***mohou*** dále obsahovat např. **Volova průvodce netvory**, **Xanatharova průvodce vším** nebo virtuálního **Průvodce povoláními** - kdy nebo zda vůbec se tak ale stane [**záleží i na Tobě**](http://www.d20.cz/diskuze/kultura-diskuze/52198.html)!
 
 ### [SRD pro Fate jsou na fateSRD.d20.cz](http://FateSRD.d20.cz)
+
+Obsahují **Základní pravidla Fate**, **Zrychlená pravidla Fate** a **Systémové nástroje**.
+
+Do budoucna budou možná obsahovat i Převodní příručku a Fate Star Wars pravidla - pokud se k tomu sirien někdy dostane.
 
 
 ## Jak SRD používat
