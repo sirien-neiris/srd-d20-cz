@@ -32,7 +32,7 @@ Do budoucna budou možná obsahovat i Převodní příručku a Fate Star Wars pr
 
 Kromě DnD 5e a Fate plánujeme do budoucna i další SRD - kdy a jestli vůbec ale záleží především na nadšencích, kteří jsou ochotní jednotlivé texty přenést. Tzn. může to být i na Tobě!
 
-Kornkétně plánujeme SRD pro Dračí Doupě II a možná pro Shadowrun 6e. Pokud by měl ale někdo zájem udělat SRD i pro jiné hry, tak to určitě všichni jedině uvítají!
+Kornkétně plánujeme SRD pro **Dračí Doupě II** a možná pro **Shadowrun 6e**. Pokud by měl ale někdo zájem udělat SRD i pro jiné hry, tak to určitě všichni jedině uvítají!
 
 
 ## Jak SRD používat
